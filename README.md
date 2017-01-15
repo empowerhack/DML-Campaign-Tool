@@ -1,2 +1,2 @@
-# DU-Campaign
-A visual interface supporting the campaign at destination-unknown.org
+# DML-Campaign-Tool
+Draw My Life's visual campaign interface presenting drawing and data visualizations
